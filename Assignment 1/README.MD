@@ -1,2 +1,5 @@
 # Lab 1
-Eunice Nwaobi, Alb, Ahsan, Ama YB
+
+## ENGG 680
+
+Please fork this repo and use branching, merging, and pulling techniques taught in Lab 0.
