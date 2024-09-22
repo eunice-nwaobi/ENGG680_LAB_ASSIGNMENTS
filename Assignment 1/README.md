@@ -1,6 +1,3 @@
-This is a sample README.md file. Please edit according to the instructions.
-
-Thanks :D
-
 # Lab 1
-## Team: X, X, X, Eunice Nwaobi
+## Team 7: Ama Yiadom Boakye, Albert Fudzi, Ahsan Farid, Eunice Nwaobi
+### 
