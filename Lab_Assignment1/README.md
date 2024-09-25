@@ -7,5 +7,5 @@
 **Eunice Nwaobi:         30038854**
 
 ## Short Description of Assignment 1
-The assignment is a student grade management system that provides details on grades obtained by students. It also contains their student ID numbers, GPA, and Homerooms.
-It provides an analysis of students' grades using graphical methods such as scatter plots and histograms.
+The assignment is a student grade management system that is used to keep records of the grades of students in Mathematics and English for the purpose of data management. It also contains their student ID numbers, GPA, and Homerooms.
+Statistical data analysis was done on the students' grades using Panda and Matlotlib to analyze their grades and generate graphical diagrams such as scatter plots and histograms for representation.
