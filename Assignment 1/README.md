@@ -1,9 +1,9 @@
 # Assignment 1
 ## Team 7
 **Name**              **UCID**
-**Ama Yiadom Boakye:    30251140**
-**Albert Fudzi:         30012647**
-**Ahsan Farid:**     
+**Ama Yiadom Boakye:    30251140,**
+**Albert Fudzi:         30012647,**
+**Ahsan Farid:, and**     
 **Eunice Nwaobi:         30038854**
 
 ## Short Description of Assignment 1
