@@ -3,7 +3,7 @@
 **Name**              **UCID**
 **Ama Yiadom Boakye:    30251140,**
 **Albert Fudzi:         30012647,**
-**Ahsan Farid:, and**     
+**Ahsan Farid:          30228313, and**     
 **Eunice Nwaobi:         30038854**
 
 ## Short Description of Assignment 1
